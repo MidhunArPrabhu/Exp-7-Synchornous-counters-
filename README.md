@@ -58,7 +58,7 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 
 ## PROCEDURE :
-
+```
 1. Create a new project in QuartusII software.
 
 2. Name the project as uc for upcounter and dc for down counter.
@@ -74,7 +74,7 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 7. End the loop.
 
 8. End the module.
-
+```
 ## PROGRAM :
 ```
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
